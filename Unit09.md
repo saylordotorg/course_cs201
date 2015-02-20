@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS201: Elementary Data Structures"
+course_description: "An introductory survey of the specification and implementation of basic abstract data types and their associated algorithms. Structures discussed include stacks, queues, lists, sorting and selection, searching, graphs, hashing, and performance tradeoffs of different implementations and asymptotic analysis of running time and memory usage."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation's CS201 Final Exam**
      Link: The Saylor Foundation's [CS201 Final

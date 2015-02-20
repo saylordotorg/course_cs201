@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS201: Elementary Data Structures"
+course_description: "An introductory survey of the specification and implementation of basic abstract data types and their associated algorithms. Structures discussed include stacks, queues, lists, sorting and selection, searching, graphs, hashing, and performance tradeoffs of different implementations and asymptotic analysis of running time and memory usage."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Algorithm Efficiency** <span id="6"></span> 
 *There are a number of parameters that developers must consider when
 designing Data Structures.  One of the most important parameters relates

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS201: Elementary Data Structures"
+course_description: "An introductory survey of the specification and implementation of basic abstract data types and their associated algorithms. Structures discussed include stacks, queues, lists, sorting and selection, searching, graphs, hashing, and performance tradeoffs of different implementations and asymptotic analysis of running time and memory usage."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Linked Stacks, Queues, and Lists** <span id="5"></span> 
 *This unit will introduce students to three new types of Data
 Structures: Linked Stacks, Queues, and lists.  We will discuss their
